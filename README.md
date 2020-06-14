@@ -1,6 +1,6 @@
 # massiveEnsemble
 
-he csv files give the area burnt by the fire starting at location #Seed under different weather conditions (Temperature, Humidity and Wind) at different time instants.
+The csv files give the area burnt by the fire starting at location #Seed under different weather conditions (Temperature, Humidity and Wind) at different time instants.
 
 Simulation Duration - 5 hours
 
